@@ -1,0 +1,44 @@
+2022/04/06-00:45:10.076 5621 Reusing MANIFEST /home/ahad/local2/whatsapp_bulk_message sender/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/06-00:45:10.076 5621 Recovering log #907
+2022/04/06-00:45:10.127 5621 Reusing old log /home/ahad/local2/whatsapp_bulk_message sender/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000907.log 
+2022/04/06-00:45:11.716 5621 Compacting 1@1 + 2@2 files
+2022/04/06-00:45:12.065 5621 Generated table #911@1: 26960 keys, 2212219 bytes
+2022/04/06-00:45:12.388 5621 Generated table #912@1: 32300 keys, 2257400 bytes
+2022/04/06-00:45:12.454 5621 Generated table #913@1: 674 keys, 516436 bytes
+2022/04/06-00:45:12.454 5621 Compacted 1@1 + 2@2 files => 4986055 bytes
+2022/04/06-00:45:12.493 5621 compacted to: files[ 0 1 22 0 0 0 0 ]
+2022/04/06-00:45:12.494 5621 Delete type=2 #908
+2022/04/06-00:45:12.494 5621 Delete type=2 #905
+2022/04/06-00:45:12.494 5621 Delete type=2 #906
+2022/04/06-00:45:39.707 5621 Level-0 table #915: started
+2022/04/06-00:45:39.812 5621 Level-0 table #915: 1050492 bytes OK
+2022/04/06-00:45:39.852 5621 Delete type=0 #907
+2022/04/06-00:45:39.873 5621 Compacting 1@0 + 1@1 files
+2022/04/06-00:45:40.007 5621 Generated table #916@0: 18197 keys, 623036 bytes
+2022/04/06-00:45:40.157 5621 Generated table #917@0: 43 keys, 4000 bytes
+2022/04/06-00:45:40.158 5621 Compacted 1@0 + 1@1 files => 627036 bytes
+2022/04/06-00:45:40.283 5621 compacted to: files[ 0 2 22 0 0 0 0 ]
+2022/04/06-00:45:41.486 562a Compacting 1@1 + 2@2 files
+2022/04/06-00:45:41.845 562a Generated table #918@1: 37896 keys, 2257489 bytes
+2022/04/06-00:45:42.211 562a Generated table #919@1: 17206 keys, 1441636 bytes
+2022/04/06-00:45:42.211 562a Compacted 1@1 + 2@2 files => 3699125 bytes
+2022/04/06-00:45:42.489 562a compacted to: files[ 0 1 22 0 0 0 0 ]
+2022/04/06-00:45:42.490 562a Delete type=2 #915
+2022/04/06-00:45:42.490 562a Delete type=2 #916
+2022/04/06-00:45:42.490 562a Delete type=2 #911
+2022/04/06-00:45:42.490 562a Delete type=2 #904
+2022/04/06-00:45:42.490 562a Delete type=2 #912
+2022/04/06-00:45:43.559 5621 Level-0 table #921: started
+2022/04/06-00:45:43.697 5621 Level-0 table #921: 1002603 bytes OK
+2022/04/06-00:45:43.740 5621 Delete type=0 #914
+2022/04/06-00:45:43.754 5621 Compacting 1@1 + 2@2 files
+2022/04/06-00:45:43.965 5621 Generated table #922@1: 36197 keys, 2229858 bytes
+2022/04/06-00:45:44.154 5621 Generated table #923@1: 22493 keys, 1968915 bytes
+2022/04/06-00:45:44.154 5621 Compacted 1@1 + 2@2 files => 4198773 bytes
+2022/04/06-00:45:44.372 5621 compacted to: files[ 0 1 22 0 0 0 0 ]
+2022/04/06-00:45:44.373 5621 Delete type=2 #921
+2022/04/06-00:45:44.373 5621 Delete type=2 #919
+2022/04/06-00:45:44.373 5621 Delete type=2 #918
+2022/04/06-00:45:44.456 5621 Level-0 table #925: started
+2022/04/06-00:45:44.635 5621 Level-0 table #925: 963398 bytes OK
+2022/04/06-00:45:44.798 5621 Delete type=0 #920
